@@ -27,3 +27,9 @@ Name:Alix Role:Test Lead Expertise:test data management, test design, and test d
 
 Name:Mai Role:QA Leader Expertise:test environment and data management, trouble reporting and resolution
 
+Stake-Holders :
+students
+Teachers
+owners
+
+
