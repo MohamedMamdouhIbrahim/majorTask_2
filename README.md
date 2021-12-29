@@ -32,4 +32,6 @@ students
 Teachers
 owners
 
+Near Vision:
+By the end of this sprint, a basic prototype of the login should be completed with proper authentication
 
