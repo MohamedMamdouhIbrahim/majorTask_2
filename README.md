@@ -35,3 +35,5 @@ owners
 Near Vision:
 By the end of this sprint, a basic prototype of the login should be completed with proper authentication
 
+Far vision:
+we are aiming to make  application that provide various features for the university sector and make the learning process easy. it should be avalibale to every body registered to the system regardless the device they are using.
