@@ -1,8 +1,6 @@
 # majorTask_2
 University system
 
-Name of the Product: Hunger Police
-
 Front-End Team
 
 Name:Mohamed Role:CSS/HTM Developer Expertise:excluding JavaScript and Application
