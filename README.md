@@ -3,27 +3,36 @@ University system
 
 Front-End Team
 
-Name:Mohamed Role:CSS/HTM Developer Expertise:excluding JavaScript and Application
+Name:Mohamed Role:CSS/HTM Developer
+domain:excluding JavaScript and Application
 
-Name:Ahmed Role:Mobile/Tablet front=end developer expertise:developing front-ends that  run on mobile or tablet devices
+Name:Ahmed Role:Mobile/Tablet front=end developer
+domain:developing front-ends that  run on mobile or tablet devices
 
-Name:youssef Role:Front-End Engineer Expertise:advanced JavaScript developer possessing advanced programming, software development, and application development skills.
+Name:youssef Role:Front-End Engineer
+domain:advanced JavaScript developer possessing advanced programming, software development, and application development skills.
 
 Back-End Team
 
-Name:khaled Role:Data Engineer Expertise:SQL
+Name:khaled Role:Data Engineer
+domain:SQL
 
-Name:Sam Role:NOC Engineer Expertise:Manage IT operations and network platform
+Name:Sam Role:NOC Engineer 
+domain:Manage IT operations and network platform
 
-Name:Marwa Role:Network Administrator Expertise:keeping a company’s computer network up to date and running easily
+Name:Marwa Role:Network Administrator 
+domain:keeping a company’s computer network up to date and running easily
 
 Testing Team
 
-Name:Mohsen Role: Network Test Engineer Expertise:programming languages, database technologies, and computer operating systems, network test
+Name:Mohsen Role: Network Test Engineer
+domain:programming languages, database technologies, and computer operating systems, network test
 
-Name:Alix Role:Test Lead Expertise:test data management, test design, and test development
+Name:Alix Role:Test Lead
+domain:test data management, test design, and test development
 
-Name:Mai Role:QA Leader Expertise:test environment and data management, trouble reporting and resolution
+Name:Mai Role:QA Leader
+domain:test environment and data management, trouble reporting and resolution
 
 Stake-Holders :
 students
